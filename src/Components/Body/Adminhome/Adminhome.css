@@ -1,0 +1,57 @@
+body{
+    background:black;
+}
+.adminhome-main{
+    /* text-align: center; */
+}
+.adminhome-main h5{
+    color: orangered !important;
+}
+.admin-view-text{
+
+    padding-right: 20px;
+    text-align: center;
+}
+.admin-home-details{
+    display: flex;
+   margin-top: 9%;
+}
+.admin-home-details-left,.admin-home-details-right{
+    width: 50%;
+    height: 300px;
+    /* background-color: red; */
+}
+.admin-home-details-left{
+    /* border-right: 3px solid red; */
+}
+.view-full-staffs,.view-full-students{
+    width: 40%;
+    margin-top: 50px !important;
+    margin: auto;
+    height: auto;
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+    border: 2px solid wheat;
+    box-shadow: 0px 0px 10px 0px #00000078;
+}
+.view-all-staff-btn{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+i{
+    margin-left: 20px;
+}
+.adminhome-reg-staff-btn{
+    /* text-align: right; */
+    padding-top: 20px;
+}
+.adminhome-reg-staff-btn .adminhome-reg-staff-button{
+    text-decoration: none;
+    background-color: palegreen;
+    color: black;
+    padding: 6px 20px;
+    font-weight: 800;
+    border-radius: 5px;
+}

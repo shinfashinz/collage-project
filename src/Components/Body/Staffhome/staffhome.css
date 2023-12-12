@@ -1,0 +1,12 @@
+.staffhome-heading{
+    text-align: center;
+    color: #53d3d1;
+    letter-spacing: 3px;
+    border-bottom: 2px solid #53d3d1;
+    width: 12%;
+    /* padding-bottom: 3px; */
+    margin: auto;
+}
+.mypara{
+    color: orangered;
+}

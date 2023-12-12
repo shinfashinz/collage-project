@@ -1,0 +1,51 @@
+.staff-forgot-card{
+    width: 27%;
+    height: auto;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 140px;
+    border-radius: 6px;
+    padding: 20px;
+}
+.staff-forgot-form{
+    /* background-color: yellow; */
+    width: 80%;
+    padding-top:20px;
+    margin: auto;
+    text-align: center;
+}
+.staff-forgot-form button{
+    background-color:white;
+    color: black;
+    font-size: 15px;
+    padding: 6px 20px;
+    margin-top: 30px;
+    font-weight: 800;
+    text-align: center;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+}
+.staff-forgot-form input{
+    width: 100%;
+    color: red;
+    background-color: transparent;
+    border: 2px solid wheat;
+    border-radius: 5px;
+    padding: 7px;
+}
+.staff-forgot-form p{
+    margin-top: 20px;
+    color: white;
+}
+.staff-forgot-card h5{
+    text-align: center;
+    color: #53d3d1;
+}
+.stf-frgt-usr{
+    background-color: white;
+    color:black;
+    padding: 4px 40px;
+    font-weight: 800;
+    border-radius: 6px;
+    text-decoration: none;
+}

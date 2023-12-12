@@ -1,0 +1,83 @@
+.studentreg-main{
+    background: black;
+    height: 92vh;
+    padding-top: 9%;
+ 
+}
+.student-reg-card-heading{
+    text-align: center;
+}
+.studentreg-card{
+    border: 2px solid orangered;
+    background-color:white ;
+    width: 70%;
+    height: auto;
+    margin: auto;
+    border-radius: 8px;
+    padding: 20px;
+}
+.studentreg-card h4{
+    color: orangered;
+    font-weight: 800;
+}
+.student-reg-form{
+    /* background-color: red; */
+    text-align: center;
+}
+.student-reg-form input{
+    background-color: transparent;
+    border: 2px solid olive !important ;
+    margin-top: 20px;
+    width: 30%;
+    margin-right: 10px;
+    height: 40px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.student-reg-form select{
+    background-color: transparent;
+    border: 2px solid olive !important ;
+    margin-top: 20px;
+    width: 30%;
+    margin-right: 10px;
+    height: 40px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+.studentreg-card button{
+    background-color: red;
+    border: 2px solid red ;
+    color: white;
+    margin-top: 20px;
+    padding: 5px 16px;
+    border-radius: 5px;
+}
+.student-reg-ihave-ac{
+    text-align: center;
+    margin-top: 20px;
+    color: red;
+}
+.internal-mark{
+    height:100px;
+    width: 92%;
+    border:2px solid olive !important;
+    background-color:transparent;
+   /* margin-top: 60px; */
+   margin-left: 35px;
+}
+
+.internal label{
+    /* margin-top: 15px; */
+    text-align: left;
+}
+.label{
+    text-align: left;
+    padding-left: 4%;
+}
+.internal input{
+    width: 20%;
+}
+.exam-score input{
+    width: 25%;
+}
